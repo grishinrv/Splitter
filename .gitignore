@@ -322,6 +322,10 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 
+# JetBrains config folder
+.idea
+
+
 # OpenCover UI analysis results
 OpenCover/
 
